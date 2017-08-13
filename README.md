@@ -1,4 +1,4 @@
-# MelloTrainer
+# FiveM-PercentLoadScreen
 A FiveM Load Screen showing load percentage instead of a load bar. Created by <a href="https://github.com/TheStonedTurtle">TheStonedTurtle</a>.<br/>
 <br/>
 
